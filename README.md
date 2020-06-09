@@ -1,7 +1,8 @@
 # init-repo
-# Documentando la creación y configuración de un repositorio, según https://guides.github.com/activities/hello-world/
-# CONFIGURACIÓN CUANDO COMIENZO UN PROYECTO CON GIT - RESUMEN
 
+Documentando la creación y configuración de un repositorio, según https://guides.github.com/activities/hello-world/
+
+# CONFIGURACIÓN CUANDO COMIENZO UN PROYECTO CON GIT - RESUMEN
 # PASOS
 
 1. Siempre al empezar un proyecto primero se debe inspeccionar los elementos:
